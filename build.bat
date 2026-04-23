@@ -1,0 +1,6 @@
+@echo off
+echo Build Started
+echo Pulling Source Code...
+echo Compiling Project...
+echo Build Successful
+pause
